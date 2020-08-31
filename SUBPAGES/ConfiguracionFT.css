@@ -1,0 +1,28 @@
+body{
+    background-image: url("PICTURES/LHA10N144.jpg");
+}
+button{
+    background-color: rgb(12, 39, 129);
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', 'Geneva', Verdana, sans-serif;
+    font-size: 14pt;
+    border:lightgray 1px solid;
+    color: aliceblue;
+}
+td{
+    text-align: center;
+}
+table{
+    width: 24cm;
+    background-color: lightgray ;
+    border: darkgray 5px solid;
+    border-collapse: separate;
+    position: relative;
+    left: 17%;
+    top: 30px;
+} 
+video.storm{
+    position: relative;
+    top: 80px;
+    left: 27%;
+    border: rgb(116, 82, 82) 3px solid;
+}

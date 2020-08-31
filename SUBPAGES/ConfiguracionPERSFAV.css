@@ -1,0 +1,61 @@
+body{
+    background-image: url("PICTURES/LHA10N144.jpg");
+}
+button{
+    background-color: rgb(12, 39, 129);
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', 'Geneva', Verdana, sans-serif;
+    font-size: 14pt;
+    border:lightgray 1px solid;
+    color: aliceblue;
+}
+a{
+    color: blanchedalmond;
+}
+table.izquierda{
+    background-color: rgba(0, 0, 0, 0);
+    width: 8cm;
+    position: relative;
+    top: 35px;
+    left: 35px;
+    border: darkgrey 3px solid;
+}
+th.bbt{
+    text-align: center;
+    font-size: 13pt;
+    background-color: lightgray;
+}
+td.bbperfil{
+    background-color:rgba(0, 0, 0, 0);
+}
+img.bbperfil{
+    position: relative;
+    top: 2px;
+    left: 87px;
+    height: 3cm;
+    width: 3cm;
+}
+td{
+    background-color: lightgrey;
+}
+table.left2{
+    width: 8cm;
+    background-color: lightgrey;
+    border: darkgray 3px solid;
+    position: relative;
+    top: 45px;
+    left: 35px;
+}
+table.hoja{
+    background-color: lightgrey;
+    position: relative;
+    top: -335px;
+    left: 450px;
+    border: darkgray 3px solid;
+    width: 17cm;
+}
+td.txt1{
+    text-align: center;
+}
+td.txt2{
+    text-align: left;
+}
